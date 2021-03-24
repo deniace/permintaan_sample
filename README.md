@@ -39,7 +39,8 @@ php artisan serve
 buka localhost:8000
 lalu login dan import file exel di folder file
 
-akun
+## akun untuk login
+```
 Admin 
 email : admin@mail.com
 password : adminadmin
@@ -78,5 +79,16 @@ password : salessales
 
 email : zeila@mail.com
 password : salessales
+```
 
 ### screenshot 
+
+![Login](https://github.com/deniace/permintaan_sample/blob/master/screenshot/login.png "Login")
+![Beranda](https://github.com/deniace/permintaan_sample/blob/master/screenshot/dashboard.png "Beranda")
+![Akun](https://github.com/deniace/permintaan_sample/blob/master/screenshot/akun.png "akun")
+![Naive Bayes](https://github.com/deniace/permintaan_sample/blob/master/screenshot/naive-bayes.png "Naive bayes")
+![Import excel](https://github.com/deniace/permintaan_sample/blob/master/screenshot/import-excel.png "import excel")
+![Area](https://github.com/deniace/permintaan_sample/blob/master/screenshot/area.png "Area")
+![Division](https://github.com/deniace/permintaan_sample/blob/master/screenshot/division.png "division")
+![Permintaan sample](https://github.com/deniace/permintaan_sample/blob/master/screenshot/permintaan-sample.png "Permintaan sample")
+![tambah permintaan baru](https://github.com/deniace/permintaan_sample/blob/master/screenshot/tambah-permintaan-baru.png "tambah permintaan baru")
