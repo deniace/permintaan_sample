@@ -1,14 +1,40 @@
-﻿Aplikasi web permintaan barang oleh Deni ace
-dibuat menggunakan laravel 7 dan bootstrap 4
+﻿### Aplikasi web permintaan barang oleh Deni ace
+**dibuat menggunakan laravel 7 dan bootstrap 4**
+
+Clone repository
+```
+git clone https://github.com/deniace/permintaan_sample.git
+```
 
 jalankan composer install
+```
+composer install
+```
+install npm dan jalankan
+```
+npm install
+npm run dev
+```
+
 lalu jalankan copy .env.example .env
-setelah itu php artisan key:generate
+
+jalankan generate key
+```
+php artisan key:generate
+```
 jangan lupa buat database di phpmyadmin dengan nama permintaan_sample
 langkah selanjutnya setting database nya di .env
-jalankan php artisan migrate
-jalankan juga php artisan db:seed
-terakhir php artisan serve
+
+jalankan migrasi dan seeder
+```
+php artisan migrate
+php artisan db:seed
+```
+terakhir running di local dev
+
+```
+php artisan serve
+```
 
 buka localhost:8000
 lalu login dan import file exel di folder file
@@ -52,3 +78,5 @@ password : salessales
 
 email : zeila@mail.com
 password : salessales
+
+### screenshot 
