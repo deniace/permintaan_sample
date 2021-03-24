@@ -1,7 +1,7 @@
-﻿### Aplikasi web permintaan barang oleh Deni ace
+﻿# Aplikasi web permintaan barang oleh Deni ace
 **dibuat menggunakan laravel 7 dan bootstrap 4**
 
-# menggunakan algoritna naive bayes (NBC) untuk menghitung I/C Additive, I/C Tronox dan I/C Pigment
+### menggunakan algoritna naive bayes (NBC) untuk menghitung I/C Additive, I/C Tronox dan I/C Pigment
 
 Clone repository
 ```
@@ -94,3 +94,4 @@ password : salessales
 ![Division](https://github.com/deniace/permintaan_sample/blob/master/screenshot/division.png "division")
 ![Permintaan sample](https://github.com/deniace/permintaan_sample/blob/master/screenshot/permintaan-sample.png "Permintaan sample")
 ![tambah permintaan baru](https://github.com/deniace/permintaan_sample/blob/master/screenshot/tambah-permintaan-baru.png "tambah permintaan baru")
+![Detail permintaan](https://github.com/deniace/permintaan_sample/blob/master/screenshot/detail-permintaan.png "Detail permintaan")
